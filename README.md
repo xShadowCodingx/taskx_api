@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/4j97Gj5/Task-1.png" alt="Task" />
 
-# TaskX
+# TaskX 
 
 TaskX is a to-do list that incorporates a program as well as the api for it. This API is built in NodeJS/Express, along with various dependencies to make the building of the application quicker and seamless.
 
