@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/JjPmhf4/Task.png" alt="Task" style="text-align: center;" />
+<img src="https://i.ibb.co/4j97Gj5/Task-1.png" alt="Task" />
 
 # TaskX
 
