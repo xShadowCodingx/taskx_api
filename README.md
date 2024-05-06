@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/JjPmhf4/Task.png" alt="Task" style="max-width: 300px; max-height: 300px;" />
+</div>
+
 # TaskX
 
 TaskX is a to-do list that incorporates a program as well as the api for it. This API is built in NodeJS/Express, along with various dependencies to make the building of the application quicker and seamless.
@@ -14,7 +18,10 @@ This is used as the back-end of the TaskX application. This API handles the user
 
 ## Features
 
-*Features implemented will be put here*
+ - Sign-up / Log-in
+ - Password Reset
+ - Task Management (CRUD)
+ - CRON database cleanup (Daily at midnight)
 
 ## Endpoints
 
@@ -30,6 +37,19 @@ This is used as the back-end of the TaskX application. This API handles the user
  - DELETE: Deletes a task
  - GET: Gets informations regarding a task
 
- ## Database Schema
+## Database Schema
 
- *Schema for the database*
+### Users
+ - id
+ - public_id
+ - email
+ - password
+ - active
+
+### Tasks
+ - id
+ - public_id
+ - task_name
+ - description
+ - date_created
+ - date_completed
