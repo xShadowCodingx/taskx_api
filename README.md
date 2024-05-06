@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://i.ibb.co/JjPmhf4/Task.png" alt="Task" style="max-width: 300px; max-height: 300px;" />
-</div>
+<img src="https://i.ibb.co/JjPmhf4/Task.png" alt="Task" style="max-width: 300px; max-height: 300px; text-align: center;" />
 
 # TaskX
 
